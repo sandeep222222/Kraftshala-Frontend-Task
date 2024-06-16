@@ -1,6 +1,6 @@
 # Kraftshala Frontend Task
 
-![image](https://im.ge/i/KVxDZ6)
+![image]("https://i.im.ge/2024/06/16/KVxDZ6.Light-Mode.png")
 
 
 ![image](https://im.ge/i/Dark-Mode.KVxUhK)
