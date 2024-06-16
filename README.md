@@ -6,6 +6,12 @@
 ![Dark-Mode](https://github.com/sandeep222222/Kraftshala-Frontend-Task/assets/155237319/09e30f49-796e-402d-8c29-c128ae98001d)
 
 
+## Live Demo
+
+Explore the live application: [Weather Insight Live Demo](https://kraftshala-frontend-task.vercel.app/)
+
+
+
 
 
 
