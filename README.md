@@ -1,9 +1,10 @@
 # Kraftshala Frontend Task
 
-![image]("https://i.im.ge/2024/06/16/KVxDZ6.Light-Mode.png")
+![Light-Mode](https://github.com/sandeep222222/Kraftshala-Frontend-Task/assets/155237319/9e2fe983-55b4-4177-83af-5b6106181e91)
 
 
-![image](https://im.ge/i/Dark-Mode.KVxUhK)
+![Dark-Mode](https://github.com/sandeep222222/Kraftshala-Frontend-Task/assets/155237319/09e30f49-796e-402d-8c29-c128ae98001d)
+
 
 
 
